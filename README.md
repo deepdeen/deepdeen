@@ -1,5 +1,5 @@
 # DeepDeen
-Islamic Knowledge Infrastructure — Unified API for Quran, Hadith, Tafsir & Isnad
+Islamic Knowledge Infrastructure | Unified API for Quran, Hadith, Tafsir & Isnad
 
 ## What is DeepDeen?
 DeepDeen is the central data infrastructure for Islamic knowledge in the AI era. 
